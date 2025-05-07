@@ -30,9 +30,9 @@
       print(me)
 
 
-- 🔭 A bilingual (French & English) computer science graduate with a background in chemical engineering, who's into python scripts and paper scraps.
+- 🔭 A bilingual (French & English) computer science graduate with a background in chemical engineering, who's into python scripts and paper scraps :ribbon:
 - 🌱 I’m currently learning Machine Learning and Big Data.
-- 💬 Ask me about DIY&crafts, running and anything :korea: !
+- 💬 Ask me about DIY&crafts, running and anything :kr: !
 - ⚡ Fun fact: I can tell a movie's ending within the first 20 minutes.
 
   
